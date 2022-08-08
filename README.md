@@ -1,0 +1,1 @@
+This app is a basic crud of FastApi with Python. It can be run on heroku
